@@ -1,0 +1,110 @@
+.goat{
+    background-color: black;
+    color: white;
+    text-align: center;
+    border: 2px solid greenyellow;
+    border-radius: 40px;
+    margin: 20px 45% 0% 45%;
+    font-size: large;
+    font-weight: bold;
+
+}
+
+
+.seven{
+    text-align: center;
+    font-family: monospace;
+    font-size: 50px;
+    border: 5px solid darkred;
+    border-radius: 25px;
+    margin: 10px 30%;
+    background-image: linear-gradient(180deg, white, cyan);
+}
+
+.first-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    
+}
+
+.first-width img{
+    width: 100%;
+}
+
+#cris{
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 1px 5px 5px 4%;
+    padding: 3%;
+    background-color: cornsilk;
+    color: darkblue;
+    font-family: cursive;
+    font-weight: 700;
+    width: 100%;
+    height: 200px;
+   
+}
+
+.idol{
+    float: right;
+    color: darkslateblue;
+    font-family: fantasy;
+    
+}
+
+.clubs{
+    border: 3px solid darkslategrey;
+    background-image: linear-gradient(60deg,rgb(226, 122, 122), white, rgb(223, 168, 168));
+    border-radius: 10px;
+    padding: 5px;
+    width: 25%;
+    font-family: sans-serif;
+    display: inline-block;
+    margin: 2% 2% 5% 4%;
+}
+
+h3{
+    text-align: center;
+}
+
+.tablec{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: rgb(1, 1, 121);
+    font-weight: 700;
+
+}
+
+.table{
+    width: 40%;
+    height: 200px;
+    border-color: rgb(46, 2, 2) ;
+    background-color: rgb(234, 240, 239);
+    color: rgb(10, 3, 54);
+}
+
+th,td{
+    padding: 2%;
+}
+
+#konay{
+    padding: 0% 28% 0% 62%;
+}
+
+#site-link{
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,red, white, red);
+    text-decoration: none;
+    color: darkslateblue;
+    padding: 5px;
+    font-family: cursive;
+    font-weight: bold;
+}
+#site-link:hover{
+    color: rgb(55, 0, 255);
+    font-size: 20px;
+}
